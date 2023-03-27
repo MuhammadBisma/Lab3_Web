@@ -45,7 +45,7 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 
 ## 6). Membuat File Koneksi Database
 Buat file baru bernama koneksi.php
-![koneksi](img/5.png)
+![koneksi](img/koneksi.png)
 Jika seperti artinya koneksi berhasil
 ### Contoh Coding
 ```php
