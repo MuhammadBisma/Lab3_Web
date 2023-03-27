@@ -14,7 +14,7 @@ melalui browser: http://localhost/phpmyadmin/
 ## 2). Membuat Database
 
 ```mysql
-CREATE DATABASE latihan3;
+CREATE DATABASE latihan1;
 ```
 
 ## 3). Membuat Tabel
